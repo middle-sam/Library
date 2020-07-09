@@ -1,2 +1,2 @@
-# Library
-Library symfony project
+# Mediathèque
+Mediathèque symfony project
